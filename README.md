@@ -4,7 +4,7 @@ INTRO:
 This was my first project in an attempt to try and get hands dirty with the excel functions, formulas, pivot table and pivot chart. The final dashboard was created in excel. But the analysis and KPI requirements were also alternatively presented in SQL as well.
 
 
-
+![Product Screenshot](https://github.com/nyhadx/pizza_sales_excel/blob/main/Pizza_Sales_Dashboard.png)
 
 
  
